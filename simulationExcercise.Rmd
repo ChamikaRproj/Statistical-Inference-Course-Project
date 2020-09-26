@@ -1,5 +1,5 @@
 ---
-title: "Simulation Exercise [Peer-graded Assignment: Statistical Inference Course Project]"
+title: "Part 1:Simulation Exercise [Peer-graded Assignment: Statistical Inference Course Project]"
 author: "Dr.Chamika Senanayake"
 date: "9/26/2020"
 output: pdf_document
